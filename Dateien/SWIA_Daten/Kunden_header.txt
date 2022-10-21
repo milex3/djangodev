@@ -1,1 +1,0 @@
-﻿ID,Firma,Nachname,Vorname,E-Mail-Adresse,Position,Telefon (geschäftlich),Telefon privat,Mobiltelefon,Faxnummer,Straße,Ort,Bundesland/Kanton,PLZ,Land/Region,Webseite,Bemerkungen,Anlagen

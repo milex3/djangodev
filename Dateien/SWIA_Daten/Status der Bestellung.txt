@@ -1,5 +1,0 @@
-"Status-Nr";"Statusname"
-0;"Neu"
-1;"In Rechnung gestellt"
-2;"Versendet"
-3;"Geschlossen"
